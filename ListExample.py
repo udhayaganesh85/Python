@@ -14,5 +14,5 @@ for i in range(a):
    pen1.fd(100)
    pen1.right(90)
 
-msg = "Bye"
+msg = "Bye Now"
 print (msg.capitalize)
